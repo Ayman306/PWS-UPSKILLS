@@ -366,7 +366,7 @@ ul {
 
 
 .hero {
-  height: 40vh;
+  height: 80vh;
   position: relative;
   margin-bottom: 2rem;
   background: url('../assets/main.jpeg') center/cover no-repeat;
@@ -435,7 +435,7 @@ ul {
   display: block;
 }
 .recipe-img {
-  height: 15rem;
+  height: 20rem;
   border-radius: var(--borderRadius);
   margin-bottom: 1rem;
 }
